@@ -1,0 +1,14 @@
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\bin\Debug\LexicialAnalysis_WPF.exe.config
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\bin\Debug\LexicialAnalysis_WPF.exe
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\bin\Debug\LexicialAnalysis_WPF.pdb
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.csprojResolveAssemblyReference.cache
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\MainWindow.g.cs
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\App.g.cs
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF_MarkupCompile.cache
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF_MarkupCompile.lref
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\MainWindow.baml
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.g.resources
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.Properties.Resources.resources
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.csproj.GenerateResource.Cache
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.exe
+E:\vs\LexicialAnalysis_WPF\LexicialAnalysis_WPF\obj\Debug\LexicialAnalysis_WPF.pdb
